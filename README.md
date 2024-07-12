@@ -1,2 +1,4 @@
 # DataScience_Predictive-Analysis-On-Flight-Ticket-Pricing-Data
 Machine learning models to perform predictive analysis on Flight Pricing ticketing data
+
+Airline datasets offer valuable insights for predicting and determining airline prices, aiding in the optimization of pricing strategies for specific routes and seasons. By analyzing flight price data, airlines can identify pricing trends over time, which is essential for developing effective pricing strategies. Leveraging these insights allows airlines to determine the most optimal pricing approach for particular routes and periods. Additionally, this data benefits customers by enabling them to forecast future flight prices, helping them plan their journeys more effectively. In this project, we implemented machine learning models, including Decision Tree, Random Forest, Gradient Boosted Tree, and Factorization Machine Regression, to perform predictive analysis on flight ticket pricing data. 
